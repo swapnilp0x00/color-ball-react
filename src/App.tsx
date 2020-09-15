@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Main from './Containers/Main';
 
 function App() {
   return (
     <div className="App">
-      Hello
+      <Main></Main>
     </div>
   );
 }

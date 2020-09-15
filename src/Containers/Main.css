@@ -1,0 +1,26 @@
+#box{ 
+    width: 50px;
+    height: 50px;
+}
+
+.Main {
+    padding: 10%;
+}
+
+#box {
+    border-radius: 50%;
+    margin: auto;
+}
+
+#controls {
+    margin: auto;
+}
+
+.margin{
+    margin-top: 10%;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}
